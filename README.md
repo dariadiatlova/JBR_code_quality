@@ -14,7 +14,7 @@ Presented script is one of many ways to annalyze the project, it consists of 3 m
   - rank (an assesment based on the Cyclomatic Complexity);
   - LLOC (Logical Lines of Code);
   - HV (the Halstead Volume);
-  - % of LC (he percent of lines of comment).
+  - % of LC (the percent of lines of comment).
 Additional computation details on metrics could be found in radon documentation https://radon.readthedocs.io/en/latest/intro.html#cyclomatic-complexity
 
 # How to run the script:
