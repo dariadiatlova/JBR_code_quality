@@ -8,7 +8,7 @@ Test task for the project: Code quality for online learning platforms Stepik and
 # Results overview:
 Radon is a Python tool that computes various metrics from the source code https://github.com/rubik/radon. 
 Presented script is one of many ways to annalyze the project, it consists of 3 main parts:
- 1. Score and sort all methods in each projects by Cyclomatic Complexity (corresponds to the number of decisions a block of code contains plus 1).
+ 1. Score and sort all methods in each project file by Cyclomatic Complexity (corresponds to the number of decisions a block of code contains plus 1).
  2. Score and sort all files in a directory by Maintainability Index – software metric which measures how maintainable (easy to support and change) the source code  is.
  3. Sort all files in current directory by Cyclomatic Complexity and score them by raw metrics: 
   - rank (an assesment based on the Cyclomatic Complexity);
