@@ -18,5 +18,6 @@ Presented script is one of many ways to annalyze the project, it consists of 3 m
 Additional computation details on metrics could be found in radon documentation https://radon.readthedocs.io/en/latest/intro.html#cyclomatic-complexity
 
 # How to run the script:
-1. Install radon library using pip install radon or conda install -c conda-forge radon.
-2. Locate the script in a directory with the files you want to score.
+1. Install radon library using
+$pip install radon$ or $conda install -c conda-forge radon$.
+3. Locate the script in a directory with the files you want to score.
