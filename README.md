@@ -20,4 +20,4 @@ Additional computation details on metrics could be found in radon documentation 
 # How to run the script:
 1. Install radon library using
 $pip install radon or $conda install -c conda-forge radon.
-3. Locate the script in a directory with the files you want to score.
+3. Put the script in a directory with the files you want to score.
