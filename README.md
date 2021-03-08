@@ -1,9 +1,9 @@
 Test task for the project: Code quality for online learning platforms Stepik and Hyperskill (JBR)
 
 # Repository structure:
-1. radon_script.py -- script that run several metrics from radon library for all files in current directory and save the results to log.txt
+1. radon_script.py -- script computes several metrics from radon library for all files in a current directory and save the results to log.txt
 2. log.txt -- file with the metrics output 
-3. librosa_core -- directory with the files from librosa library
+3. librosa_core -- directory with the files from librosa library (used as an example for Project code analysis)
  
 # Results overview:
 Radon is a Python tool that computes various metrics from the source code https://github.com/rubik/radon. 
